@@ -1,1 +1,3 @@
-# Movies-ETL
+# Popular Movies
+
+In this analysis we are finding out what the popular movies are by scraping through IMDB database to check out what the ratings are across all movies. We will be using ETL to extract data from wikipedia and Kaggle's database, then transform the data into a clean dataframe, and finally will be transforming and merging the data into PostgresSQL's databse and using their tables to look at the data. 
